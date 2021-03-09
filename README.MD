@@ -6,7 +6,8 @@
 	Jogo da memória das tecnologias...
 	
 	Encontre os Pares das determinadas tecnologias:
-		'bootstrap',
+		
+	'bootstrap',
         'css',
         'electron',
         'firebase',
